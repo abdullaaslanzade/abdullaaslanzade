@@ -316,7 +316,6 @@ Coding Profiles
 ⸻
 
 GitHub Analytics
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullaaslanzade&show_icons=true&hide_border=true&theme=tokyonight" />
   <img height="170" src="https://streak-stats.demolab.com?user=abdullaaslanzade&hide_border=true&theme=tokyonight" />
