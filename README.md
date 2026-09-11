@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-abdullaaslanzade73@gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://www.linkedin.com/in/abdullaaslanzade/">
+  <a href="https://www.linkedin.com/in/abdulla-aslanzade-0a80b82b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios/">
     <img src="https://img.shields.io/badge/LinkedIn-Abdulla%20Aslanzade-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
@@ -388,15 +388,18 @@ open_to:
 Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:abdullaaslanzade73@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-abdullaaslanzade73@gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abdullaaslanzade/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  
+  <a href="https://www.linkedin.com/in/abdulla-aslanzade-0a80b82b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdulla%20Aslanzade-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://github.com/abdullaaslanzade">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-abdullaaslanzade-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  
   <a href="https://github.com/abdullaaslanzade?tab=repositories">
     <img src="https://img.shields.io/badge/Portfolio-View%20Projects-4338CA?style=for-the-badge&logo=github&logoColor=white" />
   </a>
