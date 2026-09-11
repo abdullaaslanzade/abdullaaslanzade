@@ -318,11 +318,12 @@ Coding Profiles
 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdullaaslanzade&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&ring_color=6D28D9" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=abdullaaslanzade&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullaaslanzade&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://streak-stats.demolab.com?user=abdullaaslanzade&hide_border=true&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaaslanzade&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaaslanzade&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 ⸻
