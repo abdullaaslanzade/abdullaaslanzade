@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Data+Science+%26+Machine+Learning;Credit+Risk+Modeling+%26+Analytics;Python+%7C+SQL+%7C+Scikit-learn;Building+Data-Driven+Solutions+for+Financial+Risk" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Credit+Risk+Modeling+%26+Analytics;Machine+Learning+%26+Data+Science;Python+%7C+SQL+%7C+Scikit-learn;Building+Data-Driven+Solutions+for+Financial+Risk" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,17 +34,15 @@
 
 ## About
 
-I am a **Data Science and Machine Learning practitioner** focused on building practical, interpretable, and business-oriented analytical solutions, with a growing specialization in **banking, credit risk, and financial modeling**.
+I am a **Data Science & Machine Learning practitioner** focused on **banking, credit risk, and financial analytics**.
 
-My work combines **Python, SQL, statistical analysis, machine learning, EDA, feature engineering, model validation, and risk analytics**.
+I work with **Python, SQL, Pandas, Scikit-learn, EDA, feature engineering, model validation, and machine learning**, building end-to-end projects from data preparation to business interpretation.
 
-I approach projects from both a technical and business perspective: understanding the problem, defining the target and population, preparing reliable data, comparing models objectively, and translating results into actionable insights.
+My primary focus is **Credit Risk Data Science** — default prediction, DEV/Test/OTT validation, vintage analysis, scoring concepts, and PD/LGD/EAD fundamentals.
 
-My primary area of interest is **Credit Risk Data Science**, including default prediction, application and behavioral scoring concepts, vintage analysis, DEV/Test/OTT validation, model monitoring, and PD/LGD/EAD fundamentals.
+Currently expanding my knowledge in **Generative AI & RAG**, including LLMs, embeddings, retrieval, and vector search.
 
-I am also developing my knowledge of **Generative AI and RAG systems**, including LLMs, embeddings, vector search, retrieval, and AI applications for financial workflows.
-
-**Open To:** Data Science · Machine Learning · Credit Risk Analytics · Risk Modeling · AI/ML Internships · Junior Data Scientist Roles
+**Open To:** Junior Data Scientist · Credit Risk Analytics · AI/ML Internships
 
 ---
 
@@ -79,15 +77,15 @@ I am also developing my knowledge of **Generative AI and RAG systems**, includin
 
 | Domain | Level | Practical Experience |
 |:---|:---:|:---|
-| **Classification** | Practical | Logistic Regression, Decision Tree, Random Forest |
-| **Regression** | Practical | Linear Regression, Decision Tree, Random Forest |
-| **Model Evaluation** | Practical | ROC-AUC, Precision, Recall, F1, MAE, RMSE, R² |
-| **Feature Engineering** | Practical | Missing values, encoding, scaling, outlier treatment |
-| **Model Validation** | Practical | Train/Test, overfitting analysis, GridSearchCV |
-| **Credit Risk** | Focus Area | BAD definition, vintage, DEV/Test/OTT, PD/LGD/EAD concepts |
-| **Statistics** | Foundations | Correlation, VIF, distributions, univariate analysis |
-| **Deep Learning** | Foundations | Neural network and deep learning workflow concepts |
-| **Generative AI / RAG** | Learning | LLMs, embeddings, retrieval, vector search |
+| **Classification** | Practical | Logistic Regression · Decision Tree · Random Forest |
+| **Regression** | Practical | Linear Regression · Decision Tree · Random Forest |
+| **Model Evaluation** | Practical | ROC-AUC · Precision · Recall · F1 · MAE · RMSE · R² |
+| **Feature Engineering** | Practical | Missing Values · Encoding · Scaling · Outlier Treatment |
+| **Model Validation** | Practical | Train/Test · Overfitting Analysis · GridSearchCV |
+| **Credit Risk** | Focus Area | BAD Definition · Vintage · DEV/Test/OTT · PD/LGD/EAD |
+| **Statistics** | Foundations | Correlation · VIF · Distributions · Univariate Analysis |
+| **Deep Learning** | Foundations | Neural Networks · Deep Learning Workflow |
+| **Generative AI / RAG** | Learning | LLMs · Embeddings · Retrieval · Vector Search |
 
 ---
 
@@ -98,23 +96,21 @@ I am also developing my knowledge of **Generative AI and RAG systems**, includin
 
 <br>
 
-An end-to-end machine learning project focused on predicting **home equity loan default risk**.
+End-to-end machine learning project focused on predicting **home equity loan default risk**.
 
 | Metric | Details |
 |:---|:---|
 | **Stack** | Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn |
 | **Dataset** | 5,960 borrower records |
-| **Target** | Loan default / BAD |
+| **Target** | Loan Default / BAD |
 | **Models** | Logistic Regression · Decision Tree · Random Forest |
 | **Performance** | Decision Tree Test ROC-AUC ≈ 0.868 |
-| **Focus** | Credit risk · Imbalanced classification · Model evaluation |
+| **Focus** | Credit Risk · Imbalanced Classification · Model Evaluation |
 | **Repository** | [View Repository](https://github.com/abdullaaslanzade/home-equity-loan-default-prediction) |
 
-The project explores borrower characteristics including loan amount, mortgage balance, property value, employment history, derogatory records, delinquency history, credit age, inquiries, credit lines, and debt-to-income ratio.
+The workflow covers **data quality, EDA, missing-value treatment, categorical encoding, scaling, class imbalance, model training, ROC-AUC evaluation, confusion matrices, and overfitting analysis**.
 
-The workflow covers **data quality checks, EDA, missing-value treatment, categorical encoding, scaling, class imbalance, model training, confusion matrices, ROC-AUC evaluation, and overfitting analysis**.
-
-The project demonstrates why credit-risk models should be evaluated beyond overall accuracy, with particular attention to correctly identifying risky borrowers.
+The project demonstrates why credit-risk models should be evaluated beyond overall accuracy, particularly when identifying risky borrowers.
 
 </details>
 
@@ -125,7 +121,7 @@ The project demonstrates why credit-risk models should be evaluated beyond overa
 
 <br>
 
-A banking analytics project using **Oracle SQL** to analyze customers, accounts, balances, and transactions.
+Banking analytics project using **Oracle SQL** to analyze customers, accounts, balances, and transactions.
 
 | Metric | Details |
 |:---|:---|
@@ -133,10 +129,10 @@ A banking analytics project using **Oracle SQL** to analyze customers, accounts,
 | **Customers** | 1,000 |
 | **Accounts** | 1,721 |
 | **Transactions** | 15,000 |
-| **Focus** | Banking analytics · Customer behavior · Transaction analysis |
+| **Focus** | Banking Analytics · Customer Behavior · Transaction Analysis |
 | **Repository** | [View Repository](https://github.com/abdullaaslanzade/bank-customer-sql-analysis) |
 
-The project covers analytical SQL tasks involving customer segmentation, account balances, transaction behavior, monthly totals, transaction categories, failed transaction rates, and cumulative analysis.
+The project covers customer segmentation, account balances, transaction behavior, monthly totals, transaction categories, failed transaction rates, and cumulative analysis.
 
 SQL techniques include **JOINs, GROUP BY, CASE, CTEs, ROW_NUMBER, DENSE_RANK, LAG, LEAD, cumulative calculations, Top-N analysis, date functions, and analytical functions**.
 
@@ -149,19 +145,17 @@ SQL techniques include **JOINs, GROUP BY, CASE, CTEs, ROW_NUMBER, DENSE_RANK, LA
 
 <br>
 
-A binary classification workflow focused on identifying potentially fraudulent observations.
+Binary classification project focused on identifying potentially fraudulent observations.
 
 | Metric | Details |
 |:---|:---|
 | **Stack** | Python · Pandas · NumPy · Scikit-learn |
 | **Problem** | Binary Classification |
 | **Target** | Fraud / Non-Fraud |
-| **Preprocessing** | Data quality · Feature preparation · IQR outlier capping |
-| **Focus** | Fraud analytics · Classification · Model comparison |
+| **Preprocessing** | Data Quality · Feature Preparation · IQR Outlier Capping |
+| **Focus** | Fraud Analytics · Classification · Model Comparison |
 
-The project includes **data inspection, preprocessing, numerical feature analysis, outlier treatment, model training, test evaluation, and classification model comparison**.
-
-The workflow focuses on maintaining clean separation between predictive variables, excluded columns, preprocessing, and model evaluation.
+The workflow includes **data inspection, preprocessing, numerical feature analysis, outlier treatment, model training, test evaluation, and model comparison**.
 
 </details>
 
@@ -172,18 +166,16 @@ The workflow focuses on maintaining clean separation between predictive variable
 
 <br>
 
-A machine learning classification project designed to identify customers with a higher probability of leaving a service.
+Machine learning classification project designed to identify customers with a higher probability of leaving a service.
 
 | Metric | Details |
 |:---|:---|
 | **Stack** | Python · Pandas · Scikit-learn |
 | **Problem** | Binary Classification |
-| **Focus** | Customer behavior · Churn risk · Predictive analytics |
+| **Focus** | Customer Behavior · Churn Risk · Predictive Analytics |
 | **Workflow** | EDA → Preprocessing → Modeling → Evaluation |
 
 The project studies demographic, geographic, financial, and behavioral characteristics associated with customer churn.
-
-It demonstrates the transition from a **business question to exploratory analysis, feature preparation, machine learning, evaluation, and business interpretation**.
 
 </details>
 
@@ -198,23 +190,16 @@ It demonstrates the transition from a **business question to exploratory analysi
   <img src="https://img.shields.io/badge/DEV%20%7C%20TEST%20%7C%20OTT-Model%20Validation-4338CA?style=flat-square" />
 </p>
 
-**Areas of study and practical application:**
-
-- BAD / default definition
-- Observation and performance windows
-- Mature vs immature populations
-- DEV / Test / Out-of-Time validation
-- Vintage analysis
-- Application scoring
-- Behavioral scoring
-- Early-warning concepts
-- Collection scoring concepts
-- PD, LGD and EAD fundamentals
-- DTI and borrower risk
-- Class imbalance
-- Model discrimination and ROC-AUC
-- Model monitoring concepts
-- Data leakage prevention
+| Area | Knowledge |
+|:---|:---|
+| **Target Definition** | BAD / Default Definition · 90+ DPD Concepts |
+| **Population** | Observation Window · Performance Window · Mature / Immature |
+| **Validation** | DEV · Test · Out-of-Time (OTT) |
+| **Risk Analysis** | Vintage Analysis · DTI · Borrower Risk |
+| **Scoring** | Application · Behavioral · Early Warning · Collection |
+| **Risk Parameters** | PD · LGD · EAD |
+| **Modeling** | Class Imbalance · ROC-AUC · Data Leakage Prevention |
+| **Monitoring** | Model Performance & Monitoring Concepts |
 
 ---
 
@@ -224,22 +209,17 @@ It demonstrates the transition from a **business question to exploratory analysi
 
 **2026 — Present**
 
-Building practical machine learning and analytics projects with an emphasis on **banking risk, classification, regression, SQL, model validation, and analytical decision-making**.
+Building end-to-end **machine learning, credit risk, and banking analytics projects** using Python and SQL.
 
-**Current project work includes:**
+Current work focuses on:
 
-- Credit-risk EDA and feature engineering
-- Classification and regression modeling
-- DEV/Test/OTT validation concepts
-- Default target and performance-window design
-- Model evaluation using ROC-AUC, Precision, Recall, F1, MAE, RMSE, and R²
-- Class imbalance handling
-- Hyperparameter tuning
-- SQL banking analytics
-- GitHub project documentation
-- PD, LGD, EAD and vintage analysis concepts
+- Credit risk classification and regression
+- EDA and feature engineering
+- Model training, validation, and evaluation
+- Banking analytics with SQL
+- Model documentation and GitHub portfolio development
 
-`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `Credit Risk` `Machine Learning` `EDA`
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `Credit Risk` `Machine Learning`
 
 <br>
 
@@ -249,7 +229,7 @@ Building practical machine learning and analytics projects with an emphasis on *
 
 Professional experience in customer-facing and operational environments before transitioning into data science and machine learning.
 
-This experience developed practical strengths in **customer behavior, operations, problem solving, communication, process understanding, and business-oriented decision making**.
+Developed practical strengths in **customer behavior, operations, problem solving, communication, process understanding, and business-oriented decision making**.
 
 `Customer Experience` `Operations` `Problem Solving` `Business Understanding` `Communication`
 
@@ -257,18 +237,14 @@ This experience developed practical strengths in **customer behavior, operations
 
 ## Achievements
 
-<div align="center">
-
 | Recognition | Details |
 |:---|:---|
 | **SQL Assessment** | Achieved **94%** |
 | **Credit Risk ML** | Built an end-to-end loan default prediction project |
-| **Banking SQL** | Built a banking analytics project using 15,000 transactions |
+| **Banking SQL** | Analyzed a banking dataset containing 15,000 transactions |
 | **Machine Learning** | Completed practical classification and regression workflows |
-| **GitHub Portfolio** | Building a focused Data Science & Credit Risk project portfolio |
+| **GitHub Portfolio** | Building a focused Data Science & Credit Risk portfolio |
 | **Data Analytics** | Completed Data Analytics coursework |
-
-</div>
 
 ---
 
@@ -282,40 +258,21 @@ This experience developed practical strengths in **customer behavior, operations
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=abdullaaslanzade&hide_border=true&theme=tokyonight" />
-</p>
-
----
-
 ## Current Focus
 
 ```yaml
-learning:
-  - Advanced Machine Learning
+focus:
   - Credit Risk Modeling
+  - Advanced Machine Learning
   - Model Validation
-  - Generative AI
-  - RAG Architecture
+  - Generative AI & RAG
 
 building:
   - Credit Risk ML Projects
-  - Banking SQL Projects
-  - Classification & Regression Projects
+  - Banking SQL Analytics
   - Data Science Portfolio
 
-exploring:
-  - PD / LGD / EAD Modeling
-  - Application & Behavioral Scoring
-  - LLM Applications in Banking
-  - Vector Search & Embeddings
-  - Model Monitoring
-
 open_to:
-  - Junior Data Scientist Roles
-  - Data Science Internships
+  - Junior Data Scientist
   - Credit Risk Analytics
-  - Machine Learning Opportunities
-  - Banking Risk Projects
+  - AI / ML Internships
