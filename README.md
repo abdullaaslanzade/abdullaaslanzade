@@ -316,44 +316,15 @@ Coding Profiles
 ⸻
 
 GitHub Analytics
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullaaslanzade&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://streak-stats.demolab.com?user=abdullaaslanzade&hide_border=true&theme=tokyonight" />
-</p>
+## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaaslanzade&layout=compact&hide_border=true&theme=tokyonight" />
+  <img width="65%" src="https://streak-stats.demolab.com?user=abdullaaslanzade&hide_border=true&theme=tokyonight" />
 </p>
 
 ⸻
 
-GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullaaslanzade&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</p>
-
-⸻
-
-Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdullaaslanzade&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
-⸻
-
-Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullaaslanzade/abdullaaslanzade/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullaaslanzade/abdullaaslanzade/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/abdullaaslanzade/abdullaaslanzade/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</p>
-
-⸻
 
 Current Focus
 
